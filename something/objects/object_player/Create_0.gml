@@ -11,3 +11,16 @@ image_index = 0;
 /// @DnDHash : 794E32E8
 /// @DnDArgument : "speed" "0"
 image_speed = 0;
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 57555E79
+/// @DnDDisabled : 1
+/// @DnDArgument : "var" "global.level"
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 51434B26
+/// @DnDDisabled : 1
+/// @DnDParent : 57555E79
+/// @DnDArgument : "objectid" "object_player"
+/// @DnDSaveInfo : "objectid" "bac55afb-8653-4c2b-bf19-c0e10621b149"
