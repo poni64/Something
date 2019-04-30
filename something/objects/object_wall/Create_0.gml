@@ -1,13 +1,13 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 75A514BA
-/// @DnDArgument : "spriteind" "sprite_player"
-/// @DnDSaveInfo : "spriteind" "2a4a201d-6ed9-41bc-b191-3a6bb3270446"
-sprite_index = sprite_player;
+/// @DnDHash : 7E25E5CC
+/// @DnDArgument : "spriteind" "sprite_walls"
+/// @DnDSaveInfo : "spriteind" "40869607-7187-4b21-b189-c6d275c0def5"
+sprite_index = sprite_walls;
 image_index = 0;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 794E32E8
+/// @DnDHash : 5334CFBA
 /// @DnDArgument : "speed" "0"
 image_speed = 0;
